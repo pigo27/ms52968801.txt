@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "v2g.sg",
+  "Id": "2e12e87c-dc7b-49a7-8633-35b70b48a2b7"
+}
